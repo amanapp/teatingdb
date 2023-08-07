@@ -1,0 +1,1 @@
+{"version":3,"file":"video.js","sourceRoot":"","sources":["../../../src/Database/model/video.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;AAAA,qDAAsD;AAKtD,MAAM,WAAW,GAAkB,IAAI,iBAAM,CAAQ;IACpD,KAAK,EAAC,EAAC,IAAI,EAAC,MAAM,EAAC,OAAO,EAAC,IAAI,EAAC;CAChC,CAAC,CAAC;AAEH,MAAM,UAAU,GAAG,kBAAQ,CAAC,KAAK,CAAQ,OAAO,EAAE,WAAW,CAAC,CAAC;AAE/D,kBAAe,UAAU,CAAC"}
