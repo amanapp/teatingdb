@@ -9,7 +9,7 @@ const app=express();
 app.use(express.json())
 
 
-const task=cron.schedule('*/3 * * * * *', () => {
+const task=cron.schedule(' * */2 * * *', () => {
   const filePath = '/home/user/Videos/error_log/error.log';
   fs.unlink(filePath, (err) => {
     if (err) {
